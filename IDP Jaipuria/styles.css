@@ -1,0 +1,24 @@
+body{
+  background-color:#ff5e78 ;
+}
+h1{
+  font-family: 'Reggae One', cursive;
+  text-align: center;
+  color:#ffc75f ;
+  font-size:65px ;
+}
+p{
+  font-family: 'Lobster', cursive;
+  color:#f9f871 ;
+  font-size:40px ;
+}
+ul{
+  font-family: 'Lobster', cursive;
+  color:#f9f871 ;
+  font-size:40px ;
+}
+img{
+  margin-left:600px ;
+  height:250px ;
+  width:250px ;
+}
